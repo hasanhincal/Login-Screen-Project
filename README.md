@@ -10,11 +10,3 @@ Codded with HTML5 ve CSS3
 
 ![](screen.gif)
 
-<h2>Screen picture</h2>
-
-![](Ekran1.png)
-
-![](Ekran2.png)
-
-![](Ekran3.png)
-
